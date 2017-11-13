@@ -1,5 +1,6 @@
 # Energy Intensity Data for Public Water Supply in the United States
 Robert B. Sowby and Steven J. Burian
+
 University of Utah
 
 Last updated: 2017-11-13
