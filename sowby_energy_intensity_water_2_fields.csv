@@ -1,0 +1,14 @@
+FIELD,DESCRIPTION
+ID,unique identifier in this dataset
+UTIL,water utility name
+CITY,city
+ST,state
+POP,approximate service population
+PCT_SW,proportion of supply from surface water (fraction percentage)
+PCT_GW,proportion of supply from groundwater (fraction percentage)
+PCT_IMP,proportion of supply from imported water (fraction percentage)
+PCT_OTH,proportion of supply from other sources (fraction percentage)
+OBS_YR,observation year
+ENERGY,total annual energy consumption in kilowatt-hours (kWh)
+WATER,total annual water deliveries in million gallons (MG)
+EI,energy intensity in kilowatt-hours per million gallons (kWh/MG)

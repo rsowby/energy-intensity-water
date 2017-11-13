@@ -1,0 +1,11 @@
+DATASET TITLE,Energy Intensity Data for Public Water Supply in the United States
+DATASET DESCRIPTION,"Empirical observations of water use, electricity use, and supporting data describing energy requirements of public water systems in the United States"
+AUTHOR,"Sowby, Robert B."
+COAUTHOR,"Burian, Steven J."
+AUTHOR EMAIL,rsowby@gmail.com
+AUTHOR AFFILIATION,"Hansen, Allen & Luce, Inc.; Urban Water Group, University of Utah"
+DATASET CITATION,"Sowby, Robert B., and Burian, Steven J. 2017. “Energy Intensity Data for Public Water Supply in the United States"" (dataset)."
+PAPER CITATION,"Sowby, Robert B., and Burian, Steven J. 2017. “Survey of Energy Requirements for Public Water Supply in the United States.” Journal – American Water Works Association 109 (7), E320–E330."
+PAPER DOI,https://doi.org/10.5942/jawwa.2017.109.0080
+DATA LICENSE,Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+DATA LICENSE URL,https://creativecommons.org/licenses/by-sa/4.0/
